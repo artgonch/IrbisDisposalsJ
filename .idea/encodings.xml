@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/lplib/artem/irbisdisposalsj/ChangeStatusThread.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/org/lplib/artem/irbisdisposalsj/DisposalProcessingThread.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/org/lplib/artem/irbisdisposalsj/RawDocumentGeneratorThread.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/org/lplib/artem/irbisdisposalsj/Runner.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/org/lplib/artem/irbisdisposalsj/VSPProcessingThread.java" charset="windows-1251" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Irbis64Client.jar;IrbisDisposalJ.jar;RtfGenerator.jar
+Main-Class: org.lplib.artem.irbisdisposalsj.Runner
+
